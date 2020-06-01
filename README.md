@@ -1,2 +1,4 @@
 # New-Repository
-Just
+
+Hi Everyone
+This is just a information page 
